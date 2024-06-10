@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hello there, welcome to my page 👋
 
+My name is Ananyo (Bob) Bhattacharya. I am a Ph.D. candidate at Department of Climate and Space Sciences and Engineering(https://clasp.engin.umich.edu/) at University of Michigan
 <!--
 **GalacticBobster/GalacticBobster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
