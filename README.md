@@ -1,6 +1,6 @@
 ## Hello there, welcome to my page 👋
 
-My name is Ananyo (Bob) Bhattacharya. I am currently a Ph.D. candidate at [Department of Climate and Space Sciences and Engineering](https://clasp.engin.umich.edu/) at University of Michigan. Previously # NASA Jet Propulsion Laboratory # Graduate Fellow, and summer research fellow at # Los Alamos National Laboratory #.
+My name is Ananyo (Bob) Bhattacharya. I am currently a Ph.D. candidate at [Department of Climate and Space Sciences and Engineering](https://clasp.engin.umich.edu/) at University of Michigan. Previously NASA Jet Propulsion Laboratory Graduate Fellow, and summer research fellow at Los Alamos National Laboratory.
 
 
 * 👯 I’m looking forward to collaborate on interesting research problems
