@@ -3,7 +3,7 @@
 My name is Ananyo (Bob) Bhattacharya. I am currently a Ph.D. candidate at [Department of Climate and Space Sciences and Engineering](https://clasp.engin.umich.edu/) at University of Michigan. Previously NASA Jet Propulsion Laboratory Graduate Fellow, and summer research fellow at Los Alamos National Laboratory.
 
 * 🔭 I’m currently working on some important research, and design projects in Planetary Science and Space Exploration: \
-[1] Design, and development of a satellite constellation mission for exploring Martian atmosphere - Mentor for Space Engineering Master's Course @ U. Michigan \
+[1] Development a small satellite mission concept for exploring Martian atmosphere - Mentor for Space Engineering Master's Course @ U. Michigan \
 [2] How does high energy particle precipitation influence the temperature, and composition of it's upper atmosphere, driving strongest auroral emissions in the solar system? - NASA JPL Graduate Fellowship \
 [3] How do factors driving chemical kinetics and atmospheric transport govern chemical composition of Venus atmosphere?
 * 👯 I’m looking forward to collaborate on interesting research problems
