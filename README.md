@@ -12,6 +12,4 @@ I'm a Research Fellow at the University of Michigan, working on Earth System Mod
 [![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=9LhJDIAAAAAJ&hl=en&authuser=1)
 
 ### 📈 GitHub Stats 
-![Ananyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=GalacticBobster&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GalacticBobster&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GalacticBobster&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&count_private=true)
