@@ -2,10 +2,9 @@
 
 I'm a Research Fellow at the University of Michigan, working on Earth System Modeling and Planetary Exploration. I hold a Ph.D. in Climate and Space Sciences and Engineering from the University of Michigan.
 
-### 🔭 Current Focus
-- Developing NOAA Unified Forecast System for short-term weather forecasting in the Great Lakes region
-- Deep Learning applications for geosciences and engineering
-- Microwave Remote Sensing and Radio Science for Jupiter's ionosphere
+### 🔭 Projects
+- Developing NOAA's operational weather forecasting suite - Unified Forecast System
+- Exploring Jupiter's atmosphere and space environment with NASA Juno mission
 
 ### 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananyobhatt0101/)
