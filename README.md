@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Ananyo (Bob) Bhattacharya
 
-I'm a Research Fellow at the University of Michigan, working on Earth System Modeling and Planetary Exploration. I hold a Ph.D. in Climate and Space Sciences and Engineering from the University of Michigan.
+I'm a Scientist and Engineer working at the University of Michigan.
 
 ### 🔭 Research Interests
 - Exploration of Solar System Bodies using Spacecraft Data and Computational Models
